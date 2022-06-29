@@ -1,1 +1,4 @@
-django
+fastapi[all]
+sqlalchemy
+pydantic
+uvicorn[standard]
